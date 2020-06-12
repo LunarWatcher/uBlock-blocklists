@@ -8,3 +8,16 @@
 stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
 ! Extended blocking of their GPS bullshit
 /^https?:.*(stackoverflow|stackexchange|serverfault|stackapps|askubuntu|superuser|mathoverflow)\.(net|com)\/gps/$all
+
+! Discord
+! https://luna.gitlab.io/discord-unofficial-docs/science.html
+! Science is also POSTed to regardless of privacy settings, sooo fuck Discord
+! (Random bonus: my data dump contains 24.5 MB of messages, and 1.3 GB of analytics. The analytics outshadow the size of the rest of the data. (May 2020))
+||discord.com/api/v6/science
+||discord.com/api/v6/track
+! Protection against future versions
+||discord.com/api/v7/science
+||discord.com/api/v7/track
+! These may or may not be valid
+||discord.com/api/science
+||discord.com/api/track
