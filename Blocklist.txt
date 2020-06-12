@@ -1,0 +1,10 @@
+! Toxic subreddits
+||reddit.com/r/FemaleDatingStrategy
+
+! Don't sell my data button
+||theverge.com
+
+! Stack Overflow/Exchange
+stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
+! Extended blocking of their GPS bullshit
+/^https?:.*(stackoverflow|stackexchange|serverfault|stackapps|askubuntu|superuser|mathoverflow)\.(net|com)\/gps/$all
