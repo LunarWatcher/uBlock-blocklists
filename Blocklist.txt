@@ -21,3 +21,5 @@ stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
 ! These may or may not be valid
 ||discord.com/api/science
 ||discord.com/api/track
+! Eradicate typing
+/^https?://discord.com/api/v6/channels/\\d+/typing/$all
