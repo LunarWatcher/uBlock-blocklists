@@ -38,3 +38,15 @@ discord.com##div.localBot-GrCgVt
 ! Fuck you Google
 ||youtube.com/youtubei/v1/log_event
 
+! Corona class banners (yes, we know to stay at home. Now go away)
+! Some corona notices have been allowed, provided they contain actual information
+! that's relevant, rather than showing the same, static popup that reacts to literally
+! any interaction
+youtube.com##.ytd-popup-container 
+bing.com##.cov_root
+
+! Nuke the banner (I can add search engines without installing a plugin you know. I don't use Chrome)
+startpage.com##.widget-install-sp
+
+! Nuke this shit:
+vg.no##a[href^="https://www.vg.no/kampanje/vgpluss/"]
