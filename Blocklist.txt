@@ -42,7 +42,7 @@ discord.com##div.localBot-GrCgVt
 ! Some corona notices have been allowed, provided they contain actual information
 ! that's relevant, rather than showing the same, static popup that reacts to literally
 ! any interaction
-youtube.com##.container.style-scope.ytd-clarification-renderer
+youtube.com###clarify-box.style-scope.ytd-watch-flexy
 bing.com##.cov_root
 
 ! Nuke the banner (I can add search engines without installing a plugin you know. I don't use Chrome)
