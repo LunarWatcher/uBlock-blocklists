@@ -7,8 +7,15 @@
 ! Stack Overflow/Exchange
 stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
 ! Extended blocking of their GPS bullshit
-/^https?:.*(stackoverflow|stackexchange|serverfault|stackapps|askubuntu|superuser|mathoverflow)\.(net|com)\/gps/$all
+stackoverflow.com/gps/$all
+stackexchange.com/gps/$all
+serverfault.com/gps/$all
+stackapps.com/gps/$all
+askubuntu.com/gps/$all
+superuser.com/gps/$all
+mathoverflow.net/gps/$all
 ! Nuke instant, massive tooltips covering content on Stack Exchange
+! This should be unique enough to not cause conflicts
 ##div[id^="--stacks-s-tooltip"]
 
 ! Discord
@@ -24,9 +31,9 @@ stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
 ||discord.com/api/science
 ||discord.com/api/track
 ! Eradicate typing
-/^https?:\/\/discord.com\/api\/v6\/channels\/[0-9]+\/typing/$all
+/discord.com\/api\/v6\/channels\/[0-9]+\/typing/$all
 ! Eradicate Clyde
-##div.localBot-GrCgVt
+discord.com##div.localBot-GrCgVt
 
 ! Fuck you Google
 ||youtube.com/youtubei/v1/log_event
