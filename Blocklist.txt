@@ -51,3 +51,8 @@ startpage.com##.widget-install-sp
 
 ! Nuke this shit:
 vg.no##a[href^="https://www.vg.no/kampanje/vgpluss/"]
+
+! Unbreak trackerless social media header
+lunarwatcher.github.io#@##social-media
+! Unblock the element when I'm working on the site
+localhost#@##social-media
