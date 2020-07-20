@@ -62,3 +62,7 @@ simplecast.com$domain=stackoverflow.blog
 
 ! No one likes facebook
 ||graph.facebook.com$3p
+
+! Block that thingy
+##iframe[src^="//static.fsf.org/nosvn/banners/"]
+gnu.org###fundraiser
