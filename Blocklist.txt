@@ -66,3 +66,7 @@ simplecast.com$domain=stackoverflow.blog
 ! Block that thingy
 ##iframe[src^="//static.fsf.org/nosvn/banners/"]
 gnu.org###fundraiser
+
+! This is a generic block for visitor badge sites.
+! Whereever possible, these are moved to https://github.com/lunarwatcher/pihole-blocklists instead.
+/https?:\/\/visitor-badge\./$important
