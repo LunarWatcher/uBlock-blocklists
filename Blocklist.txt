@@ -1,9 +1,6 @@
 ! Toxic subreddits
 ||reddit.com/r/FemaleDatingStrategy
 
-! Don't sell my data button
-||theverge.com
-
 ! Stack Overflow/Exchange
 stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
 ! Extended blocking of their GPS bullshit
@@ -17,6 +14,21 @@ mathoverflow.net/gps/$all
 ! Nuke instant, massive tooltips covering content on Stack Exchange
 ! This should be unique enough to not cause conflicts
 ##div[id^="--stacks-s-tooltip"]
+
+! SO announcement banner
+stackoverflow.com###announcement-banner
+! SO blog sidebar
+stackoverflow.com##.s-sidebarwidget--item:has(a[href*="stackoverflow.blog"])
+stackoverflow.com##.s-sidebarwidget--header:has(+ .s-sidebarwidget--item:has(a[href*="stackoverflow.blog"]))
+! Annoying full width orange top border thingy
+stackoverflow.com##header.top-bar:style(border-top-color: transparent !important)
+! Profile job recommendations
+stackoverflow.com##.js-jobs-recommendations
+! Cookie banner
+stackoverflow.com###js-gdpr-consent-banner
+stackoverflow.com##div.js-consent-banner
+! Yet another full width banner
+stackoverflow.com##aside.teams-promo
 
 ! Discord
 ! https://luna.gitlab.io/discord-unofficial-docs/science.html
@@ -70,3 +82,7 @@ gnu.org###fundraiser
 ! This is a generic block for visitor badge sites.
 ! Whereever possible, these are moved to https://github.com/lunarwatcher/pihole-blocklists instead.
 /https?:\/\/visitor-badge\./$important
+
+! Fuck off GeeksForGeeks
+/https?:\/\/api\.geeksforgeeks\.org\/js\/loginModal-\d\.\d\.js?ver=.*/$all,important
+/https:\/\/www.geeksforgeeks.org\/wp-content\/themes\/iconic-one\/js\/gfg.*/$all,important
