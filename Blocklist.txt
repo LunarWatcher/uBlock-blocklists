@@ -29,6 +29,9 @@ stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com##div.js-consent-banner
 ! Yet another full width banner
 stackoverflow.com##aside.teams-promo
+stackoverflow.com##.sm\:d-none.s-navigation
+
+stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fixed.flex__center.bg-black.btr-md.py12.px16.mr32.ml-auto.l100.b0.ps-sticky.af-bar--smol.af-bar
 
 ! Discord
 ! https://luna.gitlab.io/discord-unofficial-docs/science.html
@@ -86,3 +89,11 @@ gnu.org###fundraiser
 ! Fuck off GeeksForGeeks
 /https?:\/\/api\.geeksforgeeks\.org\/js\/loginModal-\d\.\d\.js?ver=.*/$all,important
 /https:\/\/www.geeksforgeeks.org\/wp-content\/themes\/iconic-one\/js\/gfg.*/$all,important
+
+! Breaks some sites
+#@#.gdpr:not(body):not(html)
+#@#.gdpr-footer
+
+! Breaks Stack Overflow, I fail to see why this is a filter to begin with 
+#@#div[data-cookie]
+
