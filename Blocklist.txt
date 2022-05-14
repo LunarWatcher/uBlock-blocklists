@@ -97,3 +97,6 @@ gnu.org###fundraiser
 ! Breaks Stack Overflow, I fail to see why this is a filter to begin with 
 #@#div[data-cookie]
 
+! https://meta.stackoverflow.com/questions/418076/where-did-the-share-link-go
+! Blanket reversal, this rule was clearly not damage checked in advance
+#@#.js-share-link
