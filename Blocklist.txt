@@ -1,7 +1,30 @@
-! Toxic subreddits
-||reddit.com/r/FemaleDatingStrategy
+! Unbreaking {{{
+! Breaks some sites
+#@#.gdpr:not(body):not(html)
+#@#.gdpr-footer
 
+! Breaks Stack Overflow, I fail to see why this is a filter to begin with 
+#@#div[data-cookie]
+
+! Unbreak trackerless social media header
+lunarwatcher.github.io#@##social-media
+! Unblock the element when I'm working on the site
+localhost#@##social-media
+
+! https://meta.stackoverflow.com/questions/418076/where-did-the-share-link-go
+! Blanket reversal, this rule was clearly not damage checked in advance
+#@#.js-share-link
+! }}}
+! Ads {{{
+! Ad provider. I'm unable to find much info about this company at all. The only reference to a company registration is in the UK,
+! and that honestly doesn't look like the same company.
+! Appears to be an ad provider.
+! essrtb.com does not contain a website either.
+||bid.essrtb.com$3p
+! }}}
+! Trackers {{{
 ! Stack Overflow/Exchange
+
 stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
 ! Extended blocking of their GPS bullshit
 stackoverflow.com/gps/$all
@@ -11,27 +34,6 @@ stackapps.com/gps/$all
 askubuntu.com/gps/$all
 superuser.com/gps/$all
 mathoverflow.net/gps/$all
-! Nuke instant, massive tooltips covering content on Stack Exchange
-! This should be unique enough to not cause conflicts
-##div[id^="--stacks-s-tooltip"]
-
-! SO announcement banner
-stackoverflow.com###announcement-banner
-! SO blog sidebar
-stackoverflow.com##.s-sidebarwidget--item:has(a[href*="stackoverflow.blog"])
-stackoverflow.com##.s-sidebarwidget--header:has(+ .s-sidebarwidget--item:has(a[href*="stackoverflow.blog"]))
-! Annoying full width orange top border thingy
-stackoverflow.com##header.top-bar:style(border-top-color: transparent !important)
-! Profile job recommendations
-stackoverflow.com##.js-jobs-recommendations
-! Cookie banner
-stackoverflow.com###js-gdpr-consent-banner
-stackoverflow.com##div.js-consent-banner
-! Yet another full width banner
-stackoverflow.com##aside.teams-promo
-stackoverflow.com##.sm\:d-none.s-navigation
-
-stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fixed.flex__center.bg-black.btr-md.py12.px16.mr32.ml-auto.l100.b0.ps-sticky.af-bar--smol.af-bar
 
 ! Discord
 ! https://luna.gitlab.io/discord-unofficial-docs/science.html
@@ -53,31 +55,16 @@ discord.com##div.localBot-GrCgVt
 ! Fuck you Google
 ||youtube.com/youtubei/v1/log_event
 
-! Corona class banners (yes, we know to stay at home. Now go away)
-! Some corona notices have been allowed, provided they contain actual information
-! that's relevant, rather than showing the same, static popup that reacts to literally
-! any interaction
-youtube.com##div#clarify-box
-youtube.com##ytd-clarification-renderer
-bing.com##.cov_root
-
-! Nuke the banner (I can add search engines without installing a plugin you know. I don't use Chrome)
-startpage.com##.widget-install-sp
-
-! Nuke this shit:
-vg.no##a[href^="https://www.vg.no/kampanje/vgpluss/"]
-
-! Unbreak trackerless social media header
-lunarwatcher.github.io#@##social-media
-! Unblock the element when I'm working on the site
-localhost#@##social-media
-
-! No Stack Overflow, I do not want to listen to your fucking podcast, nor do I want you to load it for no fucking reason
-simplecast.com$domain=stackoverflow.blog
-
 ! No one likes facebook
 ||graph.facebook.com$3p
-
+! }}}
+! Ad elements {{{
+forum.kvinneguiden.no##.ipsGrid.ipsGrid_collapsePhone.ehm-affiliate-pos1.ehm-affiliate-3.ehm-widgetboard
+forum.kvinneguiden.no##.info-annonse
+forum.kvinneguiden.no##div.ehm-megaboard
+forum.kvinneguiden.no##.ehm-widgetboard
+! }}}
+! Annoyance elements {{{
 ! Block that thingy
 ##iframe[src^="//static.fsf.org/nosvn/banners/"]
 gnu.org###fundraiser
@@ -86,17 +73,43 @@ gnu.org###fundraiser
 ! Whereever possible, these are moved to https://github.com/lunarwatcher/pihole-blocklists instead.
 /https?:\/\/visitor-badge\./$important
 
+! Nuke the banner (I can add search engines without installing a plugin you know. I don't use Chrome)
+startpage.com##.widget-install-sp
+
+! Nuke this shit:
+vg.no##a[href^="https://www.vg.no/kampanje/vgpluss/"]
+
+! No Stack Overflow, I do not want to listen to your fucking podcast, nor do I want you to load it for no fucking reason
+simplecast.com$domain=stackoverflow.blog
+
+! No, I do not want to sign up for your shit {{{
 ! Fuck off GeeksForGeeks
 /https?:\/\/api\.geeksforgeeks\.org\/js\/loginModal-\d\.\d\.js?ver=.*/$all,important
 /https:\/\/www.geeksforgeeks.org\/wp-content\/themes\/iconic-one\/js\/gfg.*/$all,important
+! }}}
+! SO doesn't understand when to use banners {{{
 
-! Breaks some sites
-#@#.gdpr:not(body):not(html)
-#@#.gdpr-footer
+! Nuke instant, massive tooltips covering content on Stack Exchange
+! This should be unique enough to not cause conflicts
+##div[id^="--stacks-s-tooltip"]
 
-! Breaks Stack Overflow, I fail to see why this is a filter to begin with 
-#@#div[data-cookie]
+! SO announcement banner
+stackoverflow.com###announcement-banner
+! SO blog sidebar
+stackoverflow.com##.s-sidebarwidget--item:has(a[href*="stackoverflow.blog"])
+stackoverflow.com##.s-sidebarwidget--header:has(+ .s-sidebarwidget--item:has(a[href*="stackoverflow.blog"]))
+! Annoying full width orange top border thingy
+stackoverflow.com##header.top-bar:style(border-top-color: transparent !important)
+! Profile job recommendations
+stackoverflow.com##.js-jobs-recommendations
+! Cookie banner
+stackoverflow.com###js-gdpr-consent-banner
+stackoverflow.com##div.js-consent-banner
+! Yet another full width banner
+stackoverflow.com##aside.teams-promo
+stackoverflow.com##.sm\:d-none.s-navigation
+! }}}
 
-! https://meta.stackoverflow.com/questions/418076/where-did-the-share-link-go
-! Blanket reversal, this rule was clearly not damage checked in advance
-#@#.js-share-link
+! I have no idea what this was for
+stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fixed.flex__center.bg-black.btr-md.py12.px16.mr32.ml-auto.l100.b0.ps-sticky.af-bar--smol.af-bar
+! }}}
