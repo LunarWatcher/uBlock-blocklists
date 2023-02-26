@@ -116,3 +116,6 @@ stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fi
 ! GitHub's dumb "gib attention for stupid stuff" banner
 ! at least add an x button, shesh
 github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
+
+! Email spammers
+softeng.nju.edu.cn
