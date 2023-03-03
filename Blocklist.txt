@@ -119,3 +119,6 @@ github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
 
 ! Email spammers
 softeng.nju.edu.cn
+
+! The shorts popup is annoying
+youtube.com##ytd-rich-shelf-renderer[is-shorts]
