@@ -109,6 +109,7 @@ stackoverflow.com##div.js-consent-banner
 ! Yet another full width banner
 stackoverflow.com##aside.teams-promo
 stackoverflow.com##.sm\:d-none.s-navigation
+stackoverflow.com##.js-ai-chat-banner
 ! }}}
 
 ! I have no idea what this was for
