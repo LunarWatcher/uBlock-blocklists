@@ -120,7 +120,9 @@ stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fi
 github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
 
 ! Email spammers
-softeng.nju.edu.cn
+||softeng.nju.edu.cn
+||organicwebsolution.com
+||organicwebsolution-dot-yamm-track.appspot.com
 
 ! The shorts popup is annoying
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
