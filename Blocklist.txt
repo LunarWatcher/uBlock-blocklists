@@ -34,6 +34,10 @@ stackapps.com/gps/$all
 askubuntu.com/gps/$all
 superuser.com/gps/$all
 mathoverflow.net/gps/$all
+stackoverflowteams.com/c/*/gps/event$all
+stackoverflowteams.com/c/*/gps/$all
+||api-iam.intercom.io
+intercom.io
 
 ! Discord
 ! https://luna.gitlab.io/discord-unofficial-docs/science.html
