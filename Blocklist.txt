@@ -128,6 +128,13 @@ github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
 ||organicwebsolution.com
 ||organicwebsolution-dot-yamm-track.appspot.com
 
+! Crypto scam
+btcniubi.com
+fluence.network
+fluence.chat
+fluence.dev
+fluence.one
+
 ! The shorts popup is annoying
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
 
