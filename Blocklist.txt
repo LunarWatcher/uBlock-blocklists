@@ -134,6 +134,8 @@ fluence.network
 fluence.chat
 fluence.dev
 fluence.one
+dashboard-portalcoin.com
+
 
 ! The shorts popup is annoying
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
