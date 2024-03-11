@@ -135,7 +135,8 @@ fluence.chat
 fluence.dev
 fluence.one
 dashboard-portalcoin.com
-
+gomescontabilidade-ba.com.br
+nfe-visualizer.app.br
 
 ! The shorts popup is annoying
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
