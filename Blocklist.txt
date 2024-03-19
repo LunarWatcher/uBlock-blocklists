@@ -130,18 +130,35 @@ github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
 
 ! Crypto scam
 btcniubi.com
-fluence.network
-fluence.chat
-fluence.dev
-fluence.one
 dashboard-portalcoin.com
 gomescontabilidade-ba.com.br
 nfe-visualizer.app.br
 
+! Fluence 
+! Some context: 
+! * https://github.com/fluencelabs/dev-rewards/issues/45
+! * Massive email spam campaign
+fluence.network
+fluence.chat
+fluence.dev
+fluence.one
+fluence.ai
+linktr.ee/fluence_network
+zealy.io/cw/fluence
+medium.com/fluence-network
+github.com/fluencelabs
+
+! One of Fluence's many email scammers
+github.com/cfx-gspos
 mailsetting.confluxpos.cn
 confluxpos.cn
 gspos.club
 
+! Affiliated with the fluence scam
+tomtrow.com
+
+
+! End fluence
 
 ! The shorts popup is annoying
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
