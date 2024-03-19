@@ -138,6 +138,11 @@ dashboard-portalcoin.com
 gomescontabilidade-ba.com.br
 nfe-visualizer.app.br
 
+mailsetting.confluxpos.cn
+confluxpos.cn
+gspos.club
+
+
 ! The shorts popup is annoying
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
 
