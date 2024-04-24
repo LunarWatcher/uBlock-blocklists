@@ -82,7 +82,8 @@ startpage.com##.widget-install-sp
 
 ! Nuke this shit:
 vg.no##a[href^="https://www.vg.no/kampanje/vgpluss/"]
-vg.no##partnerstudio-front
+vg.no##.partnerstudio-front
+vg.no##.advertory
 
 ! No Stack Overflow, I do not want to listen to your fucking podcast, nor do I want you to load it for no fucking reason
 simplecast.com$domain=stackoverflow.blog
