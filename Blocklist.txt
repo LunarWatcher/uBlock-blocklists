@@ -119,6 +119,10 @@ stackoverflow.com##.js-ai-chat-banner
 stackoverflow.com###divQuestionFollowFeaturePopover
 stackexchange.com###divQuestionFollowFeaturePopover
 askubuntu.com###divQuestionFollowFeaturePopover
+superuser.com###divQuestionFollowFeaturePopover
+
+! More craaaaaaaaaaaaaaap
+stackoverflow.com##.s-badge__new
 
 ! Axe one-tap login (https://meta.stackoverflow.com/questions/429959/why-did-stack-overflow-sign-ups-spike-in-the-past-two-weeks#comment994498_429959)
 ! Note that this is partly blocked already, as Some Other Blocklist:tm: blocks the google client script, which prevents one-tap login from working
