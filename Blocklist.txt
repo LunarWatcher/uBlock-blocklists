@@ -123,6 +123,7 @@ superuser.com###divQuestionFollowFeaturePopover
 
 ! More craaaaaaaaaaaaaaap
 stackoverflow.com##.s-badge__new
+stackoverflow.com###nav-labs-jobs
 
 ! Axe one-tap login (https://meta.stackoverflow.com/questions/429959/why-did-stack-overflow-sign-ups-spike-in-the-past-two-weeks#comment994498_429959)
 ! Note that this is partly blocked already, as Some Other Blocklist:tm: blocks the google client script, which prevents one-tap login from working
