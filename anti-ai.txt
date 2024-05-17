@@ -1,0 +1,33 @@
+!! This blocklist contains various sites with AI-generated  content (provided entire articles are AI-generated),
+!! and individual elements with AI-generated content. This list is primarily focused on various sources of AI-generated
+!! information, including news sources, blogs, etc.
+!! This is primarily as an attempt to reduce exposure to genAI misinformation, which there unfortunately is
+!! enormous quantities of now. 
+!!
+!! This list also goes into the details on certain sites that are otherwise mostly human-generated. This does not
+!! blanket-block any site with some AI-generated content, but focuses on sites that are primarily AI-generated,
+!! as well as AI-generated elements on the rest (such as summaries).
+!! 
+!! See also https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist for more AI blocking 
+!! Note that unlike that list, this list does not block the results from search, as I don't feel like implementing it.
+!! That list also takes a much more hardline stance on when to block sites, and focuses far more on general AI tools. YMMV
+!!
+!! This list will grow as I find bad sites.
+!! Also note that this list is written with vim fold marks, to make it slightly more readable in at least the editor I use
+
+! AI-generated features on otherwise acceptable sites {{{
+! AI-generated summaries
+nrk.no##aside:has(h3:has-text(Saken oppsummert))
+! }}}
+! Full genAI pages {{{
+artificialintelligence-news.com
+jeffbullas.com
+
+! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
+apnews.com
+ap.org
+! }}}
+! Full genAI and/or genAI tools {{{
+dupple.com
+newsgpt.ai
+! }}}
