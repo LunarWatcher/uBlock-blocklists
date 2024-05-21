@@ -15,13 +15,66 @@
 !! This list will grow as I find bad sites.
 !! Also note that this list is written with vim fold marks, to make it slightly more readable in at least the editor I use
 
+! Misinformation generators {{{
+! Note that this section is mainly aimed at LLM implementations with the sole purpose of writing large amounts of content,
+! and not any LLM.
+! If you want to blanket block general LLMs, I suggest https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist,
+! which already covers those.
+! This section is the most likely to overlap with that list, and I'd like to keep overlap to a minimum.
+
+byword.ai
+simplified.com
+aiarticlegenerator.org
+deepai.org
+! writesonic.com
+! }}}
+
 ! AI-generated features on otherwise acceptable sites {{{
 ! AI-generated summaries
 nrk.no##aside:has(h3:has-text(Saken oppsummert))
 ! }}}
 ! Full genAI pages {{{
+
+! Detection strategy: Random discovery
 artificialintelligence-news.com
 jeffbullas.com
+bohutskyi.com
+
+
+! Detection strategy: "As of my knowledge cutoff" site:blog.* 
+lewagon.com
+faxtail.com
+flutter.wtf
+gdeltproject.org
+theodorewatson.com
+nilssonschmilsson.com
+serchen.com
+cubed.run
+allinn.com
+jambox.io
+kurby.ai
+! Note that the post in question on this particular domain only shows an example and highlights
+! that it's CGPT output, but the rest of the post is clearly AI generated.
+typingmind.com
+jj5.net
+
+! Detection strategy: "As of my knowledge cutoff" "blog"
+whitefishmedia.com
+! Pismo is exceptionally ironic, because they have a post pointing out that AI is unreliable, but most of their
+! blog seems to be blatantly AI-generated now
+pismo.io
+
+! Detection strategy: Blanket nuking of stuff associated with AI-generated crap (often using AI-generated
+! crap as an SEO heist)
+ibekit.com
+chanakabr.gumroad.com
+selfesteem2go.com
+
+contactstudios.com
+facebook.com/contactxstudios
+linkedin.com/company/contact-studios
+instagram.com/contact.studios
+youtube.com/@contactstudios
 
 ! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
 apnews.com
@@ -30,4 +83,50 @@ ap.org
 ! Full genAI and/or genAI tools {{{
 dupple.com
 newsgpt.ai
+! }}}
+! AI authors on sites with easily distinguishable URLs and enough human-generated content to not be blanket-blocked {{{
+! Medium (because of course)
+! Supporting detection strategy: "As of my knowledge cutoff" site:medium.com
+! And holy _fuck_ are there a lot of results. I don't have time to cover them all, but it looks like there's systems
+! that automatically post AI-generated content to medium. Welcome to the future I guess 
+
+! Subdomains
+sardarmudassaralikhan.medium.com
+ah-mahir.medium.com
+groupbuyseotools350.medium.com
+ahmadrezashamimi.medium.com
+mgoulston.medium.com
+chandra074.medium.com
+sardarmudassaralikhan.medium.com
+oneabsolutegenius.medium.com/
+
+! @username
+medium.com/@digital_creator
+medium.com/@mdhridoyahmad197
+medium.com/@aarthimanikandan2006
+medium.com/@moazam12
+medium.com/@asifmanzoor6592
+medium.com/@claudiupaduraru855
+medium.com/@vedashri
+medium.com/@artist4ujutt
+medium.com/@gregorybrowningseo
+medium.com/@sharfuddin004
+medium.com/@mahavianaveed4
+medium.com/@jockerd81
+medium.com/@avs-abhishek
+medium.com/@vedashri.sonar
+medium.com/@saifkhan666645
+medium.com/@smithyalex826
+medium.com/@jacksonpercy3434
+medium.com/@sajiveva1112000
+medium.com/@sustanam
+medium.com/@zerrries
+medium.com/@dlaytonj2
+medium.com/@iziseo1001
+medium.com/@rahul.vopa
+medium.com/@josekiara35_36539
+medium.com/@vincentswm5
+medium.com/@corentinjacques
+medium.com/@chanakabr500
+
 ! }}}
