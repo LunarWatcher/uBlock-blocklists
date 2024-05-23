@@ -79,6 +79,9 @@ youtube.com/@contactstudios
 ! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
 apnews.com
 ap.org
+
+! https://futurism.com/washington-post-pivot-ai
+washingtonpost.com
 ! }}}
 ! Full genAI and/or genAI tools {{{
 dupple.com
