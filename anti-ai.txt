@@ -39,7 +39,7 @@ nrk.no##aside:has(h3:has-text(Saken oppsummert))
 artificialintelligence-news.com
 jeffbullas.com
 bohutskyi.com
-
+codium.ai
 
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
