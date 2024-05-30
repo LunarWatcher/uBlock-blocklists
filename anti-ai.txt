@@ -40,6 +40,9 @@ artificialintelligence-news.com
 jeffbullas.com
 bohutskyi.com
 codium.ai
+beecombplex.com
+beefriendsfarm.com
+
 
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
