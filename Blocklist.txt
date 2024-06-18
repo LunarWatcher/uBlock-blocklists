@@ -143,6 +143,11 @@ github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
 ||organicwebsolution.com
 ||organicwebsolution-dot-yamm-track.appspot.com
 
+codigger.com
+||youtube.com/channel/UC07kIlvex8h-5EVl8SZPZjQ
+||instagram.com/codigger_dot_com/
+||github.com/codiggermkt
+
 ! Crypto scam
 btcniubi.com
 dashboard-portalcoin.com
