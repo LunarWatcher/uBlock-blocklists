@@ -42,7 +42,8 @@ bohutskyi.com
 codium.ai
 beecombplex.com
 beefriendsfarm.com
-
+leewayhertz.com
+superwise.ai
 
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
