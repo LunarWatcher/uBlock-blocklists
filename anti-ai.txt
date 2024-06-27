@@ -44,6 +44,8 @@ beecombplex.com
 beefriendsfarm.com
 leewayhertz.com
 superwise.ai
+singlestore.com
+
 
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
@@ -78,7 +80,7 @@ contactstudios.com
 facebook.com/contactxstudios
 linkedin.com/company/contact-studios
 instagram.com/contact.studios
-youtube.com/@contactstudios
+
 
 ! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
 apnews.com
@@ -105,7 +107,9 @@ ahmadrezashamimi.medium.com
 mgoulston.medium.com
 chandra074.medium.com
 sardarmudassaralikhan.medium.com
-oneabsolutegenius.medium.com/
+oneabsolutegenius.medium.com
+xallyai.medium.com
+
 
 ! @username
 medium.com/@digital_creator
@@ -138,4 +142,28 @@ medium.com/@corentinjacques
 medium.com/@veritysystems
 medium.com/@chanakabr500
 
+medium.com/@pavanbelagatti
+
+
+! }}}
+! LinkedIn {{{
+! Accounts (private + company) {{{
+linkedin.com/in/pavan-belagatti/
+linkedin.com/in/nikita-malviya-/
+
+linkedin.com/company/singlestore/
+! }}}
+! Misc. {{{
+linkedin.com/newsletters/dev-advocacy-ai-ml-data-6896318302495350784
+! }}}
+! }}}
+! Twitter {{{
+x.com/Pavan_Belagatti
+x.com/SingleStoreDB
+
+! }}}
+! YouTube {{{
+! Unfortunately only takes down channels and not videos, but it's good enough
+youtube.com/@contactstudios
+youtube.com/singlestore
 ! }}}
