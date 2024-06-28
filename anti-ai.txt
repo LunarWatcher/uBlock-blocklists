@@ -79,6 +79,7 @@ nomios.co.uk
 workbuzz.com
 vanderbilt.edu
 octagontalent.com
+veritonic.com
 
 ! Detection strategy: Blanket nuking of stuff associated with AI-generated crap (often using AI-generated
 ! crap as an SEO heist)
@@ -158,7 +159,10 @@ medium.com/@romin991
 medium.com/@mollelmike
 medium.com/@iipptcollege
 medium.com/@carsten.krause
+medium.com/@vajogo
 
+! Dedicated domains
+plainenglish.io
 
 ! }}}
 ! LinkedIn {{{
