@@ -71,6 +71,15 @@ whitefishmedia.com
 ! blog seems to be blatantly AI-generated now
 pismo.io
 
+! Detection strategy: "In the rapidly evolving landscape of"
+liminal.ai
+missionreadyhq.com
+rck.partners
+nomios.co.uk
+workbuzz.com
+vanderbilt.edu
+octagontalent.com
+
 ! Detection strategy: Blanket nuking of stuff associated with AI-generated crap (often using AI-generated
 ! crap as an SEO heist)
 ibekit.com
@@ -145,6 +154,11 @@ medium.com/@chanakabr500
 
 medium.com/@pavanbelagatti
 medium.com/@kyodo-tech
+medium.com/@romin991
+medium.com/@mollelmike
+medium.com/@iipptcollege
+medium.com/@carsten.krause
+
 
 ! }}}
 ! LinkedIn {{{
