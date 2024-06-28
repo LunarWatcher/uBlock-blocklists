@@ -26,7 +26,8 @@ byword.ai
 simplified.com
 aiarticlegenerator.org
 deepai.org
-! writesonic.com
+autogpt.net
+writesonic.com
 ! }}}
 
 ! AI-generated features on otherwise acceptable sites {{{
