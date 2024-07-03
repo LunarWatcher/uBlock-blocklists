@@ -46,7 +46,7 @@ beefriendsfarm.com
 leewayhertz.com
 superwise.ai
 singlestore.com
-
+nanonets.com
 
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
