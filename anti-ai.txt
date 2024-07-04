@@ -48,6 +48,12 @@ superwise.ai
 singlestore.com
 nanonets.com
 
+proofhub.com
+linkedin.com/company/proofhub---project-management-software
+x.com/proofhub
+instagram.com/proofhub/
+youtube.com/channel/UCnEk00v0ThswMueZrK8gZJw
+
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
 faxtail.com
