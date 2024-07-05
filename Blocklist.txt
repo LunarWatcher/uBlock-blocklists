@@ -23,6 +23,7 @@ localhost#@##social-media
 ||bid.essrtb.com$3p
 ! }}}
 ! Trackers {{{
+||caddy.community/assets/google-universal-analytics-v4
 ! Stack Overflow/Exchange
 
 stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
