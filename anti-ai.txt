@@ -54,6 +54,21 @@ x.com/proofhub
 instagram.com/proofhub/
 youtube.com/channel/UCnEk00v0ThswMueZrK8gZJw
 
+# Techradar does seem to do _some_ original work, but nothing significant enough to outweight pretty blatant genAI
+# errors
+techradar.com
+youtube.com/user/techradar
+facebook.com/TechRadar
+x.com/techradar
+twitter.com/intent/user?screen_name=techradar
+x.com/intent/user?screen_name=techradar
+flipboard.com/@TechRadar
+
+# Owns techradar; they have a bunch of other subsidiaries as well, but I can't be bothered going through all of them
+# to check who does the big dumb of using genAI for articles
+futureplc.com
+future-advertising.com
+
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
 faxtail.com
