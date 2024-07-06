@@ -33,6 +33,9 @@ writesonic.com
 ! AI-generated features on otherwise acceptable sites {{{
 ! AI-generated summaries
 nrk.no##aside:has(h3:has-text(Saken oppsummert))
+! Articles in nynorsk have a different header
+nrk.no##aside:has(h3:has-text(Saka oppsummert))
+
 ! }}}
 ! Full genAI pages {{{
 
