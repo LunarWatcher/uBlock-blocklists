@@ -29,6 +29,10 @@ deepai.org
 autogpt.net
 writesonic.com
 ! }}}
+! Search garbage {{{
+perplexity.ai
+
+! }}}
 
 ! AI-generated features on otherwise acceptable sites {{{
 ! AI-generated summaries
@@ -57,6 +61,7 @@ debugpoint.com
 softaai.com
 catchypeakacademy.in
 
+
 proofhub.com
 linkedin.com/company/proofhub---project-management-software
 x.com/proofhub
@@ -72,6 +77,7 @@ x.com/techradar
 twitter.com/intent/user?screen_name=techradar
 x.com/intent/user?screen_name=techradar
 flipboard.com/@TechRadar
+
 
 ! Owns techradar; they have a bunch of other subsidiaries as well, but I can't be bothered going through all of them
 ! to check who does the big dumb of using genAI for articles
@@ -115,6 +121,25 @@ veritonic.com
 calculatorgem.com
 
 
+! Detection strategy: AI-generated (and labelled) dev.to articles that are obviously spam
+! Note: I'm not going after dev.to because I just don't feel like going deeper into a single site. 
+! Medium authors aren't going to be added after the time of writing of this notice either, but existing
+! entries are left for historical reasons
+! These will instead be used to find and locate affiliated sites, and prioritise those instead.
+! If you're using medium and/or dev.to for information, you're already doing something wrong anyway
+pangaeax.com
+x.com/mikeyoung44
+aimodels.fyi
+aimodels.substack.com
+abtosoftware.com
+linkedin.com/in/harpreetsahota204
+voxel51.com
+bostoninstituteofanalytics.org
+generativeai.pub
+solutelabs.com
+calsoftinc.com
+edenai.co
+
 ! Detection strategy: Blanket nuking of stuff associated with AI-generated crap (often using AI-generated
 ! crap as an SEO heist)
 ! As an aside, for some reason, medium seems to be a _really_ common platform for these.
@@ -134,11 +159,9 @@ t.me/hacklessAnn
 x.com/hackless_defi
 hackless.io
 t.me/HacklessRPGBot
-twitter.com/MidvelCorp
+x.com/MidvelCorp
 blaize.tech
 asterion.one
-
-
 
 ! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
 apnews.com
@@ -239,6 +262,7 @@ linkedin.com/newsletters/dev-advocacy-ai-ml-data-6896318302495350784
 ! Twitter {{{
 x.com/Pavan_Belagatti
 x.com/SingleStoreDB
+x.com/perplexity_ai
 
 ! }}}
 ! YouTube {{{
