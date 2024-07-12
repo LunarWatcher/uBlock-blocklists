@@ -54,6 +54,8 @@ bobcares.com
 hackr.io
 exin.com
 debugpoint.com
+softaai.com
+catchypeakacademy.in
 
 proofhub.com
 linkedin.com/company/proofhub---project-management-software
@@ -61,8 +63,8 @@ x.com/proofhub
 instagram.com/proofhub/
 youtube.com/channel/UCnEk00v0ThswMueZrK8gZJw
 
-# Techradar does seem to do _some_ original work, but nothing significant enough to outweight pretty blatant genAI
-# errors
+! Techradar does seem to do _some_ original work, but nothing significant enough to outweight pretty blatant genAI
+! errors
 techradar.com
 youtube.com/user/techradar
 facebook.com/TechRadar
@@ -71,8 +73,8 @@ twitter.com/intent/user?screen_name=techradar
 x.com/intent/user?screen_name=techradar
 flipboard.com/@TechRadar
 
-# Owns techradar; they have a bunch of other subsidiaries as well, but I can't be bothered going through all of them
-# to check who does the big dumb of using genAI for articles
+! Owns techradar; they have a bunch of other subsidiaries as well, but I can't be bothered going through all of them
+! to check who does the big dumb of using genAI for articles
 futureplc.com
 future-advertising.com
 
@@ -109,6 +111,10 @@ vanderbilt.edu
 octagontalent.com
 veritonic.com
 
+! Detection strategy: "in the dynamic world of"
+calculatorgem.com
+
+
 ! Detection strategy: Blanket nuking of stuff associated with AI-generated crap (often using AI-generated
 ! crap as an SEO heist)
 ibekit.com
@@ -120,6 +126,10 @@ facebook.com/contactxstudios
 linkedin.com/company/contact-studios
 instagram.com/contact.studios
 
+t.me/hackless_io
+t.me/hacklessAnn
+x.com/hackless_defi
+hackless.io
 
 ! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
 apnews.com
@@ -189,6 +199,13 @@ medium.com/@iipptcollege
 medium.com/@carsten.krause
 medium.com/@vajogo
 medium.com/@Pythe
+medium.com/@sivakumaroffl123
+medium.com/@hackless
+medium.com/@Zeniarodrigues07
+
+! Publications
+medium.com/designway
+medium.com/hackless
 
 ! Dedicated domains
 plainenglish.io
@@ -200,6 +217,7 @@ linkedin.com/in/pavan-belagatti/
 linkedin.com/in/nikita-malviya-/
 
 linkedin.com/company/singlestore/
+linkedin.com/company/hacklessio/
 ! }}}
 ! Misc. {{{
 linkedin.com/newsletters/dev-advocacy-ai-ml-data-6896318302495350784
