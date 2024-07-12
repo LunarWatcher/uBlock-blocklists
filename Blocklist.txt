@@ -189,3 +189,8 @@ youtube.com##ytd-rich-shelf-renderer[is-shorts]
 ||cdn.jsdelivr.net/npm/disable-devtool*$script
 ||https://cdn.jsdelivr.net/npm/disable-devtool*$script
 */disable-devtool.min.js$script
+!! Annoyances {{{
+!!! Banners {{{
+dev.to##.js-billboard-container
+!!! }}}
+!! }}}
