@@ -1,0 +1,24 @@
+!! This extension of the anti-ai blocklist deals with certain offending sites _far_ more aggressively
+!! than the original list
+!! While the original list primarily goes after individuals and organisations, this list targets
+!! sites that facilitate this kind of crap at a scale.
+!!
+!! This list is intentionally aggressive. Sites that appear regularly as a platform to spread
+!! entries that make it into the anti-ai.txt list make it into this list. This includes several
+!! very commonly used sites, including Medium and the cancer that is LinkedIn
+!! Note that this only applies if the platform:
+!!
+!! 1. Doesn't care about, or actively encourages genAI content, and
+!! 2. Doesn't enforce the explicit labelling of such content, and
+!! 3. Isn't dedicated to genAI content, or doesn't use it as an SEO hijacking strategy
+!!
+!! For example, dev.to, while having a fuckton of generated articles, fails the second point of this test, and
+!! is therefore not on this list.
+!! AI-oriented sites and sites that spew out genAI blog articles as an SEO heist (i.e. fail point 3)
+!! go in the main list instead; they're blockable, but they're not nuclear.
+!!
+!! Note: this list complements the anti-ai list. If you're using this, you probably also want the
+!! non-nuclear list (but not necessarily vice versa)
+
+medium.com
+linkedin.com
