@@ -117,6 +117,9 @@ calculatorgem.com
 
 ! Detection strategy: Blanket nuking of stuff associated with AI-generated crap (often using AI-generated
 ! crap as an SEO heist)
+! As an aside, for some reason, medium seems to be a _really_ common platform for these.
+! I'm half wondering if it's worth nuking the entirety of medium.com; it's so full of crap it would probably
+! be easier to blanket nuke and whitelist the rare exceptions
 ibekit.com
 chanakabr.gumroad.com
 selfesteem2go.com
@@ -130,6 +133,12 @@ t.me/hackless_io
 t.me/hacklessAnn
 x.com/hackless_defi
 hackless.io
+t.me/HacklessRPGBot
+twitter.com/MidvelCorp
+blaize.tech
+asterion.one
+
+
 
 ! https://www.ap.org/solutions/artificial-intelligence/: TL;DR: automatic news generation based on twitter
 apnews.com
@@ -202,10 +211,14 @@ medium.com/@Pythe
 medium.com/@sivakumaroffl123
 medium.com/@hackless
 medium.com/@Zeniarodrigues07
+medium.com/@annalooksup
+medium.com/@midvel.corp
+
 
 ! Publications
 medium.com/designway
 medium.com/hackless
+medium.com/peanut-trade
 
 ! Dedicated domains
 plainenglish.io
