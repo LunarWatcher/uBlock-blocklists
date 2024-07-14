@@ -194,3 +194,6 @@ youtube.com##ytd-rich-shelf-renderer[is-shorts]
 dev.to##.js-billboard-container
 !!! }}}
 !! }}}
+!! GitHub scrapers {{{
+imc.re
+!! }}}
