@@ -168,6 +168,13 @@ linktr.ee/fluence_network
 zealy.io/cw/fluence
 medium.com/fluence-network
 github.com/fluencelabs
+x.com/fluence_project
+youtube.com/@fluencelabs
+linkedin.com/company/fluence-labs
+discord.com/invite/5qSnPZKh7u
+t.me/fluence_project
+t.me/fluenceru
+t.me/fluencedev
 
 ! One of Fluence's many email scammers
 github.com/cfx-gspos
@@ -177,6 +184,8 @@ gspos.club
 
 ! Affiliated with the fluence scam
 tomtrow.com
+x.com/amawxz
+cloudless.dev 
 
 
 ! End fluence
