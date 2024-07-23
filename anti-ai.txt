@@ -62,6 +62,7 @@ softaai.com
 catchypeakacademy.in
 refine.dev
 zenrows.com
+rollbar.com
 
 proofhub.com
 linkedin.com/company/proofhub---project-management-software
