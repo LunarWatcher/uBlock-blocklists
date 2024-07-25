@@ -209,3 +209,10 @@ dev.to##.js-billboard-container
 !! GitHub scrapers {{{
 imc.re
 !! }}}
+!! Compromised/dead sites {{{
+edtittel.com
+
+!! Spam sites abusing said domains {{{
+localdatehub.com
+!! }}}
+!! }}}
