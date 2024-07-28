@@ -63,6 +63,7 @@ catchypeakacademy.in
 refine.dev
 zenrows.com
 rollbar.com
+lazyadmin.nl
 
 proofhub.com
 linkedin.com/company/proofhub---project-management-software
