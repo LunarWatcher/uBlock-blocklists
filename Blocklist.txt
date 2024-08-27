@@ -221,3 +221,8 @@ edtittel.com
 localdatehub.com
 !! }}}
 !! }}}
+! Crypto crap {{{
+opensea-nftpro.web.app
+opensea.io
+
+! }}}
