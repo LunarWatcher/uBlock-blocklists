@@ -40,6 +40,8 @@ stackoverflowteams.com/c/*/gps/$all
 ||api-iam.intercom.io
 intercom.io
 
+/tags/recent-tags$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
+
 ! Discord
 ! https://luna.gitlab.io/discord-unofficial-docs/science.html
 ! Science is also POSTed to regardless of privacy settings, sooo fuck Discord
