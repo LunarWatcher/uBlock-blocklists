@@ -137,6 +137,8 @@ cdn.sstatic.net/Js/islands/one-tap.en.js
 
 ! I have no idea what this was for
 stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fixed.flex__center.bg-black.btr-md.py12.px16.mr32.ml-auto.l100.b0.ps-sticky.af-bar--smol.af-bar
+
+stackoverflowteams.com##.js-announcement-banner
 ! }}}
 ! GitHub's dumb "gib attention for stupid stuff" banner
 ! at least add an x button, shesh
