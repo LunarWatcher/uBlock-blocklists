@@ -231,3 +231,6 @@ opensea-nftpro.web.app
 opensea.io
 
 ! }}}
+!! Misc. self-hosted stuff {{{
+##a[href="https://wiki.kavitareader.com/donating"]
+!! }}}
