@@ -283,7 +283,7 @@ youtube.com/singlestore
 kagi.com##._0_summarize_link
 kagi.com##._0_summarize_page
 kagi.com##._0_discuss_document
-||kagi.com/summarizer/
-||kagi.com/discussdoc
-||kagi.com/fastgpt
+||kagi.com/summarizer/$document
+||kagi.com/discussdoc$document
+||kagi.com/fastgpt$document
 ! }}}
