@@ -279,3 +279,11 @@ x.com/perplexity_ai
 youtube.com/@contactstudios
 youtube.com/singlestore
 ! }}}
+! Kagi {{{
+kagi.com##._0_summarize_link
+kagi.com##._0_summarize_page
+kagi.com##._0_discuss_document
+||kagi.com/summarizer/
+||kagi.com/discussdoc
+||kagi.com/fastgpt
+! }}}
