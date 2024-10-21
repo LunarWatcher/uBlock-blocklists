@@ -40,6 +40,8 @@ stackoverflowteams.com/c/*/gps/$all
 ||api-iam.intercom.io
 intercom.io
 
+stackoverflow.com###sg-popover
+
 /tags/recent-tags$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-overflowai-cta,.js-freemium-cta,.js-recent-tags-heading,.js-recent-tag
 
