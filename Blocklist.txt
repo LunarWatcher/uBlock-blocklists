@@ -236,3 +236,7 @@ opensea.io
 !! Misc. self-hosted stuff {{{
 ##a[href="https://wiki.kavitareader.com/donating"]
 !! }}}
+
+!! Reddit {{{
+reddit.com##auth-landing-experience-xpromo-cbau-wrapper
+!! }}}
