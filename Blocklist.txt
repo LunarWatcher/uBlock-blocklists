@@ -150,6 +150,14 @@ github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
 ||softeng.nju.edu.cn
 ncsu.edu
 ncsu.qualtricks.com
+smartstreamingott.com
+agribiomercadante.com
+rtve.es
+triconpolyfabs.com
+
+! Not technically spam (the spammers used ipfs in the spam), but really questionable site overall
+ipfs.io
+
 
 ||organicwebsolution.com
 ||organicwebsolution-dot-yamm-track.appspot.com
