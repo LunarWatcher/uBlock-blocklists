@@ -96,6 +96,9 @@ flipboard.com/@TechRadar
 futureplc.com
 future-advertising.com
 
+! Detection strategy: random discovery, and AI usage by own admission
+songtell.com
+
 ! Detection strategy: "As of my knowledge cutoff" site:blog.* 
 lewagon.com
 faxtail.com
