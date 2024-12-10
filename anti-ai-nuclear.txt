@@ -22,3 +22,5 @@
 
 medium.com
 linkedin.com
+! Technically limited to a single tag, but this does not appear to be properly enforced
+dev.to
