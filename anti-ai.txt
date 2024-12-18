@@ -299,3 +299,17 @@ kagi.com##._0_discuss_document
 ||kagi.com/discussdoc$document
 ||kagi.com/fastgpt$document
 ! }}}
+! GitHub {{{
+! Nuke all copilot assets
+||github.githubassets.com/assets/*copilot*
+! More assets
+||github.com/github-copilot*
+! Copilot page
+||github.com/copilot/$document
+! Stuff on the dashboard 
+github.com##.copilotPreview__container
+! Sidebar entry
+github.com##.ActionListItem > a[href="/copilot"]
+! Navbar entry
+github.com##.AppHeader-CopilotChat
+! }}}
