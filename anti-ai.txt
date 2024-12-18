@@ -306,6 +306,8 @@ kagi.com##._0_discuss_document
 ||github.com/github-copilot*
 ! Copilot page
 ||github.com/copilot/$document
+||github.com/copilot$document
+
 ! Stuff on the dashboard 
 github.com##.copilotPreview__container
 ! Sidebar entry
