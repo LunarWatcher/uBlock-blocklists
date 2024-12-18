@@ -81,20 +81,20 @@ tailoredread.com
 bookauthority.org
 
 proofhub.com
-linkedin.com/company/proofhub---project-management-software
-x.com/proofhub
-instagram.com/proofhub/
-youtube.com/channel/UCnEk00v0ThswMueZrK8gZJw
+linkedin.com/company/proofhub---project-management-software$document
+x.com/proofhub$document
+instagram.com/proofhub/$document
+youtube.com/channel/UCnEk00v0ThswMueZrK8gZJw$document
 
 ! Techradar does seem to do _some_ original work, but nothing significant enough to outweight pretty blatant genAI
 ! errors
 techradar.com
-youtube.com/user/techradar
-facebook.com/TechRadar
-x.com/techradar
-twitter.com/intent/user?screen_name=techradar
-x.com/intent/user?screen_name=techradar
-flipboard.com/@TechRadar
+youtube.com/user/techradar$document
+facebook.com/TechRadar$document
+x.com/techradar$document
+twitter.com/intent/user?screen_name=techradar$document
+x.com/intent/user?screen_name=techradar$document
+flipboard.com/@TechRadar$document
 
 
 ! Owns techradar; they have a bunch of other subsidiaries as well, but I can't be bothered going through all of them
@@ -149,11 +149,11 @@ calculatorgem.com
 ! These will instead be used to find and locate affiliated sites, and prioritise those instead.
 ! If you're using medium and/or dev.to for information, you're already doing something wrong anyway
 pangaeax.com
-x.com/mikeyoung44
+x.com/mikeyoung44$document
 aimodels.fyi
 aimodels.substack.com
 abtosoftware.com
-linkedin.com/in/harpreetsahota204
+linkedin.com/in/harpreetsahota204$document
 voxel51.com
 bostoninstituteofanalytics.org
 generativeai.pub
@@ -171,16 +171,16 @@ chanakabr.gumroad.com
 selfesteem2go.com
 
 contactstudios.com
-facebook.com/contactxstudios
-linkedin.com/company/contact-studios
-instagram.com/contact.studios
+facebook.com/contactxstudios$document
+linkedin.com/company/contact-studios$document
+instagram.com/contact.studios$document
 
-t.me/hackless_io
-t.me/hacklessAnn
-x.com/hackless_defi
+t.me/hackless_io$document
+t.me/hacklessAnn$document
+x.com/hackless_defi$document
 hackless.io
-t.me/HacklessRPGBot
-x.com/MidvelCorp
+t.me/HacklessRPGBot$document
+x.com/MidvelCorp$document
 blaize.tech
 asterion.one
 
@@ -214,55 +214,55 @@ xallyai.medium.com
 
 
 ! @username
-medium.com/@digital_creator
-medium.com/@mdhridoyahmad197
-medium.com/@aarthimanikandan2006
-medium.com/@moazam12
-medium.com/@asifmanzoor6592
-medium.com/@claudiupaduraru855
-medium.com/@vedashri
-medium.com/@artist4ujutt
-medium.com/@gregorybrowningseo
-medium.com/@sharfuddin004
-medium.com/@mahavianaveed4
-medium.com/@jockerd81
-medium.com/@avs-abhishek
-medium.com/@vedashri.sonar
-medium.com/@saifkhan666645
-medium.com/@smithyalex826
-medium.com/@jacksonpercy3434
-medium.com/@sajiveva1112000
-medium.com/@sustanam
-medium.com/@zerrries
-medium.com/@dlaytonj2
-medium.com/@iziseo1001
-medium.com/@rahul.vopa
-medium.com/@josekiara35_36539
-medium.com/@vincentswm5
-medium.com/@corentinjacques
+medium.com/@digital_creator$document
+medium.com/@mdhridoyahmad197$document
+medium.com/@aarthimanikandan2006$document
+medium.com/@moazam12$document
+medium.com/@asifmanzoor6592$document
+medium.com/@claudiupaduraru855$document
+medium.com/@vedashri$document
+medium.com/@artist4ujutt$document
+medium.com/@gregorybrowningseo$document
+medium.com/@sharfuddin004$document
+medium.com/@mahavianaveed4$document
+medium.com/@jockerd81$document
+medium.com/@avs-abhishek$document
+medium.com/@vedashri.sonar$document
+medium.com/@saifkhan666645$document
+medium.com/@smithyalex826$document
+medium.com/@jacksonpercy3434$document
+medium.com/@sajiveva1112000$document
+medium.com/@sustanam$document
+medium.com/@zerrries$document
+medium.com/@dlaytonj2$document
+medium.com/@iziseo1001$document
+medium.com/@rahul.vopa$document
+medium.com/@josekiara35_36539$document
+medium.com/@vincentswm5$document
+medium.com/@corentinjacques$document
 
-medium.com/@veritysystems
-medium.com/@chanakabr500
+medium.com/@veritysystems$document
+medium.com/@chanakabr500$document
 
-medium.com/@pavanbelagatti
-medium.com/@kyodo-tech
-medium.com/@romin991
-medium.com/@mollelmike
-medium.com/@iipptcollege
-medium.com/@carsten.krause
-medium.com/@vajogo
-medium.com/@Pythe
-medium.com/@sivakumaroffl123
-medium.com/@hackless
-medium.com/@Zeniarodrigues07
-medium.com/@annalooksup
-medium.com/@midvel.corp
+medium.com/@pavanbelagatti$document
+medium.com/@kyodo-tech$document
+medium.com/@romin991$document
+medium.com/@mollelmike$document
+medium.com/@iipptcollege$document
+medium.com/@carsten.krause$document
+medium.com/@vajogo$document
+medium.com/@Pythe$document
+medium.com/@sivakumaroffl123$document
+medium.com/@hackless$document
+medium.com/@Zeniarodrigues07$document
+medium.com/@annalooksup$document
+medium.com/@midvel.corp$document
 
 
 ! Publications
-medium.com/designway
-medium.com/hackless
-medium.com/peanut-trade
+medium.com/designway$document
+medium.com/hackless$document
+medium.com/peanut-trade$document
 
 ! Dedicated domains
 plainenglish.io
@@ -270,26 +270,26 @@ plainenglish.io
 ! }}}
 ! LinkedIn {{{
 ! Accounts (private + company) {{{
-linkedin.com/in/pavan-belagatti/
-linkedin.com/in/nikita-malviya-/
+linkedin.com/in/pavan-belagatti/$document
+linkedin.com/in/nikita-malviya-/$document
 
-linkedin.com/company/singlestore/
-linkedin.com/company/hacklessio/
+linkedin.com/company/singlestore/$document
+linkedin.com/company/hacklessio/$document
 ! }}}
 ! Misc. {{{
-linkedin.com/newsletters/dev-advocacy-ai-ml-data-6896318302495350784
+linkedin.com/newsletters/dev-advocacy-ai-ml-data-6896318302495350784$document
 ! }}}
 ! }}}
 ! Twitter {{{
-x.com/Pavan_Belagatti
-x.com/SingleStoreDB
-x.com/perplexity_ai
+x.com/Pavan_Belagatti$document
+x.com/SingleStoreDB$document
+x.com/perplexity_ai$document
 
 ! }}}
 ! YouTube {{{
 ! Unfortunately only takes down channels and not videos, but it's good enough
-youtube.com/@contactstudios
-youtube.com/singlestore
+youtube.com/@contactstudios$document
+youtube.com/singlestore$document
 ! }}}
 ! Kagi {{{
 kagi.com##._0_summarize_link
