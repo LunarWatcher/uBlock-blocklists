@@ -309,7 +309,9 @@ kagi.com##._0_discuss_document
 ! Stuff on the dashboard 
 github.com##.copilotPreview__container
 ! Sidebar entry
-github.com##.ActionListItem > a[href="/copilot"]
+github.com##.ActionListItem:has(a[href="/copilot"])
 ! Navbar entry
 github.com##.AppHeader-CopilotChat
+! Search
+github.com##.ActionList-sectionDivider:has(ul > li[data-value="Ask Copilot"])
 ! }}}
