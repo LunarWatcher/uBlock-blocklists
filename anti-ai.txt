@@ -320,4 +320,7 @@ github.com##.ActionList-sectionDivider:has(ul > li[data-value="Ask Copilot"])
 github.com##li:has(a[href="/settings/copilot"])
 ! File preview
 github.com###blob-view-header-copilot-icon
+
+! Sidebar notice; Nuclear option, but most of these notices are garbage
+github.com##.js-notice
 ! }}}
