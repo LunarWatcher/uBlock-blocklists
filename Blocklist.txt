@@ -42,6 +42,11 @@ intercom.io
 
 stackoverflow.com###sg-popover
 
+! Collectives
+stackoverflow.com##.sidebar-subcommunity
+stackoverflow.com##span[title="Recognized"]
+stackoverflow.com##.subcommunity-topic-avatar
+
 /tags/recent-tags$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com###newsletter-ad
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-overflowai-cta,.js-freemium-cta,.js-recent-tags-heading,.js-recent-tag
