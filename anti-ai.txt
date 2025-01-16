@@ -327,3 +327,6 @@ github.com###blob-view-header-copilot-icon
 ! Sidebar notice; Nuclear option, but most of these notices are garbage
 github.com##.js-notice
 ! }}}
+! You disappoint me, overleaf {{{
+overleaf.com###writefull-icon
+! }}}
