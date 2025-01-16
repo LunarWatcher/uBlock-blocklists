@@ -329,4 +329,5 @@ github.com##.js-notice
 ! }}}
 ! You disappoint me, overleaf {{{
 overleaf.com###writefull-icon
+overleaf.com##.ai-error-assistant
 ! }}}
