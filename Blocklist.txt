@@ -254,3 +254,20 @@ opensea.io
 !! Reddit {{{
 reddit.com##auth-landing-experience-xpromo-cbau-wrapper
 !! }}}
+!! Shitter blanket nuke {{{
+twitter.com
+t.co
+twimg.com
+ads-twitter.com
+x.com
+pscp.tv
+twtrdns.net
+periscope.tv
+twttr.com
+twitpic.com
+tweetdeck.com
+twitter.co
+twitterinc.com
+twitteroauth.com
+twitterstat.us
+!! }}}
