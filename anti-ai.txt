@@ -74,6 +74,7 @@ toxigon.com
 trangotech.com
 sonichits.com
 happymag.tv
+trycatchdebug.net
 
 ! Sigh
 browserstack.com
