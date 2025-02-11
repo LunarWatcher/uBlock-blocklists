@@ -26,30 +26,6 @@ localhost#@##social-media
 ||caddy.community/assets/google-universal-analytics-v4
 ! Stack Overflow/Exchange
 
-stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
-! Extended blocking of their GPS bullshit
-stackoverflow.com/gps/$all
-stackexchange.com/gps/$all
-serverfault.com/gps/$all
-stackapps.com/gps/$all
-askubuntu.com/gps/$all
-superuser.com/gps/$all
-mathoverflow.net/gps/$all
-stackoverflowteams.com/c/*/gps/event$all
-stackoverflowteams.com/c/*/gps/$all
-||api-iam.intercom.io
-intercom.io
-
-stackoverflow.com###sg-popover
-
-! Collectives
-stackoverflow.com##.sidebar-subcommunity
-stackoverflow.com##span[title="Recognized"]
-stackoverflow.com##.subcommunity-topic-avatar
-
-/tags/recent-tags$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
-stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com###newsletter-ad
-stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-overflowai-cta,.js-freemium-cta,.js-recent-tags-heading,.js-recent-tag
 
 ! Discord
 ! https://luna.gitlab.io/discord-unofficial-docs/science.html
@@ -105,54 +81,13 @@ simplecast.com$domain=stackoverflow.blog
 /https?:\/\/api\.geeksforgeeks\.org\/js\/loginModal-\d\.\d\.js?ver=.*/$all,important
 /https:\/\/www.geeksforgeeks.org\/wp-content\/themes\/iconic-one\/js\/gfg.*/$all,important
 ! }}}
-! SO doesn't understand when to use banners {{{
 
-! Nuke instant, massive tooltips covering content on Stack Exchange
-! This should be unique enough to not cause conflicts
-##div[id^="--stacks-s-tooltip"]
-
-! SO announcement banner
-stackoverflow.com###announcement-banner
-! SO blog sidebar
-stackoverflow.com##.s-sidebarwidget--item:has(a[href*="stackoverflow.blog"])
-stackoverflow.com##.s-sidebarwidget--header:has(+ .s-sidebarwidget--item:has(a[href*="stackoverflow.blog"]))
-! Annoying full width orange top border thingy
-stackoverflow.com##header.top-bar:style(border-top-color: transparent !important)
-! Profile job recommendations
-stackoverflow.com##.js-jobs-recommendations
-! Cookie banner
-stackoverflow.com###js-gdpr-consent-banner
-stackoverflow.com##div.js-consent-banner
-! Yet another full width banner
-stackoverflow.com##aside.teams-promo
-stackoverflow.com##.sm\:d-none.s-navigation
-stackoverflow.com##.js-ai-chat-banner
-! This piece of crap has to be dismissed at least once per site, which is incredibly annoying
-stackoverflow.com###divQuestionFollowFeaturePopover
-stackexchange.com###divQuestionFollowFeaturePopover
-askubuntu.com###divQuestionFollowFeaturePopover
-superuser.com###divQuestionFollowFeaturePopover
-
-! More craaaaaaaaaaaaaaap
-stackoverflow.com##.s-badge__new
-stackoverflow.com###nav-labs-jobs
-
-! Axe one-tap login (https://meta.stackoverflow.com/questions/429959/why-did-stack-overflow-sign-ups-spike-in-the-past-two-weeks#comment994498_429959)
-! Note that this is partly blocked already, as Some Other Blocklist:tm: blocks the google client script, which prevents one-tap login from working
-! This block is for good measure 
-cdn.sstatic.net/Js/islands/one-tap.en.js
 ! }}}
-
-! I have no idea what this was for
-stackoverflow.com##.af-bar__shown.js-smol-bar.f\:outline-ring.c-pointer.z-nav-fixed.flex__center.bg-black.btr-md.py12.px16.mr32.ml-auto.l100.b0.ps-sticky.af-bar--smol.af-bar
-
-stackoverflowteams.com##.js-announcement-banner
-! }}}
-! GitHub's dumb "gib attention for stupid stuff" banner
+! GitHub's dumb "gib attention for stupid stuff" banner {{{
 ! at least add an x button, shesh
 github.com##.graph-before-activity-overview > .mb-2.Box-header--blue.Box-header
-
-! Email spammers
+! }}}
+! Email spammers {{{
 ||softeng.nju.edu.cn
 ncsu.edu
 ncsu.qualtricks.com
@@ -183,8 +118,8 @@ btcniubi.com
 dashboard-portalcoin.com
 gomescontabilidade-ba.com.br
 nfe-visualizer.app.br
-
-! Fluence 
+! }}}
+! Fluence {{{
 ! Some context: 
 ! * https://github.com/fluencelabs/dev-rewards/issues/45
 ! * Massive email spam campaign
@@ -217,16 +152,16 @@ x.com/amawxz
 cloudless.dev 
 
 
-! End fluence
-
-! The shorts popup is annoying
+! }}}
+! The shorts popup is annoying {{{
 youtube.com##ytd-rich-shelf-renderer[is-shorts]
-
-! Disable the devtool disabler
+! }}}
+! Disable the devtool disabler {{{
 ||theajack.github.io/disable-devtool*$script
 ||cdn.jsdelivr.net/npm/disable-devtool*$script
 ||https://cdn.jsdelivr.net/npm/disable-devtool*$script
 */disable-devtool.min.js$script
+! }}}
 !! Annoyances {{{
 !!! Banners {{{
 dev.to##.js-billboard-container
@@ -250,7 +185,6 @@ opensea.io
 !! Misc. self-hosted stuff {{{
 ##a[href="https://wiki.kavitareader.com/donating"]
 !! }}}
-
 !! Reddit {{{
 reddit.com##auth-landing-experience-xpromo-cbau-wrapper
 !! }}}
@@ -271,3 +205,93 @@ twitterinc.com
 twitteroauth.com
 twitterstat.us
 !! }}}
+! SO shit {{{
+! SO doesn't understand when to use banners {{{
+
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com,stackoverflowteams.com##.js-announcement-banner
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com,stackoverflowteams.com##.vote-reminder-popover-container
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com,stackoverflowteams.com##.vote-reminder-popover-popover
+
+! Nuke instant, massive tooltips covering content on Stack Exchange
+! This should be unique enough to not cause conflicts
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com,stackoverflowteams.com##div[id^="--stacks-s-tooltip"]
+
+! SO announcement banner
+! SO blog sidebar
+stackoverflow.com##.s-sidebarwidget--item:has(a[href*="stackoverflow.blog"])
+stackoverflow.com##.s-sidebarwidget--header:has(+ .s-sidebarwidget--item:has(a[href*="stackoverflow.blog"]))
+! Annoying full width orange top border thingy
+stackoverflow.com##header.top-bar:style(border-top-color: transparent !important)
+! Profile job recommendations
+stackoverflow.com##.js-jobs-recommendations
+! Cookie banner
+stackoverflow.com###js-gdpr-consent-banner
+stackoverflow.com##div.js-consent-banner
+stackoverflow.com##.s-link[aria-controls="popover-labs-left-nav"]
+! Yet another full width banner
+stackoverflow.com##aside.teams-promo
+stackoverflow.com##.sm\:d-none.s-navigation
+stackoverflow.com##.js-ai-chat-banner
+! This piece of crap has to be dismissed at least once per site, which is incredibly annoying
+stackoverflow.com###divQuestionFollowFeaturePopover
+stackexchange.com###divQuestionFollowFeaturePopover
+askubuntu.com###divQuestionFollowFeaturePopover
+superuser.com###divQuestionFollowFeaturePopover
+
+! More craaaaaaaaaaaaaaap
+stackoverflow.com##.s-badge__new
+stackoverflow.com###nav-labs-jobs
+
+! Axe one-tap login (https://meta.stackoverflow.com/questions/429959/why-did-stack-overflow-sign-ups-spike-in-the-past-two-weeks#comment994498_429959)
+! Note that this is partly blocked already, as Some Other Blocklist:tm: blocks the google client script, which prevents one-tap login from working
+! This block is for good measure 
+cdn.sstatic.net/Js/islands/one-tap.en.js
+cdn.sstatic.net/Js/islands/comment-popover.en.js$script
+! }}}
+! SO-specific intrusive "features" {{{
+
+! Don't mind if I do
+stackoverflow.com###hide-this-if-you-want
+
+stackoverflow.com###overflow-blog-items
+stackoverflow.com##div:has(> ul#overflow-blog-items)
+stackoverflow.com##div:has(> ul#recently-viewed-posts)
+! Widget with ads inside; blocked to avoid it taking up space
+stackoverflow.com##.js-sidebar-zone
+! }}}
+! Tracking {{{
+stackoverflow.com##.js-products-menu.js-gps-track.-marketing-link
+! Extended blocking of their GPS bullshit
+stackoverflow.com/gps/$all
+stackexchange.com/gps/$all
+serverfault.com/gps/$all
+stackapps.com/gps/$all
+askubuntu.com/gps/$all
+superuser.com/gps/$all
+mathoverflow.net/gps/$all
+stackoverflowteams.com/c/*/gps/event$all
+stackoverflowteams.com/c/*/gps/$all
+||api-iam.intercom.io
+intercom.io
+! }}}
+! Extended annoyances, advertising, and intrusive engagement bullshit {{{
+stackoverflow.com###sg-popover
+/tags/recent-tags$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com###newsletter-ad
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-overflowai-cta,.js-freemium-cta,.js-recent-tags-heading,.js-recent-tag
+! }}}
+! highlighting crap {{{
+stackoverflow.com##.nav-links div:remove-class(bar-circle)
+stackoverflow.com##.nav-links div:remove-class(bc-purple-200)
+stackoverflow.com##.nav-links div:remove-class(bg-purple-400)
+stackoverflow.com##.nav-links svg:remove-class(fc-white)
+stackoverflow.com##.nav-links svg:remove-class(bg-transparent)
+! }}}
+! Collectives shit {{{
+stackoverflow.com##.sidebar-subcommunity
+stackoverflow.com##span[title="Recognized"]
+stackoverflow.com##.subcommunity-topic-avatar
+! }}}
+
+
+! }}}
