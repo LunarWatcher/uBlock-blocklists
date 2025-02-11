@@ -292,6 +292,10 @@ stackoverflow.com##.sidebar-subcommunity
 stackoverflow.com##span[title="Recognized"]
 stackoverflow.com##.subcommunity-topic-avatar
 ! }}}
+! Experiments {{{
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-exp-vote-zero:remove-attr(data-exp-vote-zero-wording)
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-exp-vote-zero:remove-class(js-exp-vote-zero)
+! }}}
 
 
 ! }}}
