@@ -279,6 +279,9 @@ stackoverflow.com###sg-popover
 /tags/recent-tags$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com###newsletter-ad
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-overflowai-cta,.js-freemium-cta,.js-recent-tags-heading,.js-recent-tag
+
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.s-sidebarwidget--header:has-text(The Overflow Blog)
+stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.s-sidebarwidget--item:has(> div a[href^="https://stackoverflow.blog"])
 ! }}}
 ! highlighting crap {{{
 stackoverflow.com##.nav-links div:remove-class(bar-circle)
@@ -296,6 +299,8 @@ stackoverflow.com##.subcommunity-topic-avatar
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-exp-vote-zero:remove-attr(data-exp-vote-zero-wording)
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com##.js-exp-vote-zero:remove-class(js-exp-vote-zero)
 ! }}}
-
+! {{{
 
 ! }}}
+! }}}
+! 
