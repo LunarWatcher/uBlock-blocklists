@@ -301,6 +301,14 @@ stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com
 ! }}}
 ! {{{
 
+
+
+
 ! }}}
 ! }}}
-! 
+! YouTube shit {{{
+! Block the "includes paid content" overlay - while useful, the fact it's a
+! link has made me accidentally open a help page instead of the video
+youtube.com##ytm-paid-content-overlay-renderer
+! }}}
+! vim: set comments=:! commentstring=! %s
