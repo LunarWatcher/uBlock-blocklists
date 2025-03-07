@@ -99,6 +99,7 @@ triconpolyfabs.com
 ! Not technically spam (the spammers used ipfs in the spam), but really questionable site overall
 ipfs.io
 
+w-dragon.com
 
 ||organicwebsolution.com
 ||organicwebsolution-dot-yamm-track.appspot.com
