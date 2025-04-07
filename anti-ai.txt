@@ -322,7 +322,7 @@ github.com##.AppHeader-CopilotChat
 ! Search
 github.com##.ActionList-sectionDivider:has(ul > li[data-value="Ask Copilot"])
 ! Profile sidebar
-github.com##li:has(a[href="/settings/copilot"])
+github.com##[role='dialog'] li:has(a[href="/settings/copilot"])
 ! File preview
 github.com###blob-view-header-copilot-icon
 
