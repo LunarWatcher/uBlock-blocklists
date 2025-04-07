@@ -328,6 +328,8 @@ github.com###blob-view-header-copilot-icon
 
 ! Sidebar notice; Nuclear option, but most of these notices are garbage
 github.com##.js-notice
+! Action fail button
+github.com##button:has(svg.octicon-copilot)
 ! }}}
 ! You disappoint me, overleaf {{{
 overleaf.com###writefull-icon
