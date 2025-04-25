@@ -161,7 +161,8 @@ youtube.com##ytd-rich-shelf-renderer[is-shorts]
 ||theajack.github.io/disable-devtool*$script
 ||cdn.jsdelivr.net/npm/disable-devtool*$script
 ||https://cdn.jsdelivr.net/npm/disable-devtool*$script
-*/disable-devtool.min.js$script
+*/disable-devtool.min.js*$script
+
 ! }}}
 !! Annoyances {{{
 !!! Banners {{{
