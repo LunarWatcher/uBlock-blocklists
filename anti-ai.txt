@@ -15,6 +15,12 @@
 !! This list will grow as I find bad sites.
 !! Also note that this list is written with vim fold marks, to make it slightly more readable in at least the editor I use
 
+! Email spammer slop companies {{{
+! Really hitting all the absolute bottomfeeder indicators here
+mercor.com
+mercor-dot-yamm-track.appspot.com
+
+! }}}
 ! Misinformation generators {{{
 ! Note that this section is mainly aimed at LLM implementations with the sole purpose of writing large amounts of content,
 ! and not any LLM.
