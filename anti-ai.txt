@@ -336,6 +336,8 @@ github.com###blob-view-header-copilot-icon
 github.com##.js-notice
 ! Action fail button
 github.com##button:has(svg.octicon-copilot)
+! Issue button
+github.com##div[class*="CopilotWorkspaceButton"]
 ! }}}
 ! You disappoint me, overleaf {{{
 overleaf.com###writefull-icon
