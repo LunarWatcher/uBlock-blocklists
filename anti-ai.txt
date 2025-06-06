@@ -19,7 +19,7 @@
 ! Really hitting all the absolute bottomfeeder indicators here
 mercor.com
 mercor-dot-yamm-track.appspot.com
-
+getnom.dev
 ! }}}
 ! Misinformation generators {{{
 ! Note that this section is mainly aimed at LLM implementations with the sole purpose of writing large amounts of content,
