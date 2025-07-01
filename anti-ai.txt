@@ -51,6 +51,7 @@ nrk.no##aside:has(h3:has-text(Saka oppsummert))
 ! Full genAI pages {{{
 
 ! Detection strategy: Random discovery
+scrapingant.com
 cheatsheet.fyi
 artificialintelligence-news.com
 jeffbullas.com
