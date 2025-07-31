@@ -339,6 +339,16 @@ github.com##.js-notice
 github.com##button:has(svg.octicon-copilot)
 ! Issue button
 github.com##div[class*="CopilotWorkspaceButton"]
+! GitHub has infected several components with AI slop, so they refuse to load with the raw rules here. Unbreak GitHub {{{
+! The next four scripts are all required for the commit history to load.
+! What the fuck does model picker, chat context, and copilot chat helpers have to do with the commit history, I hear you ask?
+! Absolutely nothing, but GitHub seems to have leaned so far into vibe coding that file boundaries mean jack shit, so the
+! copilot scripts now fuck over base features
+@@||github.githubassets.com/assets/ui_packages_copilot-chat_components_ModelPicker_tsx*$script
+@@||github.githubassets.com/assets/ui_packages_copilot-chat_utils_CopilotChatContext_tsx*$script
+@@||github.githubassets.com/assets/ui_packages_copilot-chat_utils_copilot-chat-helpers_ts*$script
+@@||github.githubassets.com/assets/ui_packages_verified-fetch_verified-fetch_ts-ui_packages_copilot-markdown_MarkdownRenderer_tsx*$script
+! }}}
 ! }}}
 ! You disappoint me, overleaf {{{
 overleaf.com###writefull-icon
