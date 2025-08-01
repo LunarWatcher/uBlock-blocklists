@@ -17,16 +17,19 @@
 
 ! Email spammer slop companies {{{
 ! Really hitting all the absolute bottomfeeder indicators here
-mercor.com
-mercor-dot-yamm-track.appspot.com
 getnom.dev
 
 ! AI slop recruiter + email spammer + github scraper - the trifecta of a scummy company
+mercor-dot-yamm-track.appspot.com
 mercorcontractors.com
 mercor.com
 ! Slop cofounder
+! (only one of the three appear to have a website. Couldn't find more slop products)
 suryamidha.com
 
+! }}}
+! General AI slop endorsers {{{
+todayin-ai.com
 ! }}}
 ! Misinformation generators {{{
 ! Note that this section is mainly aimed at LLM implementations with the sole purpose of writing large amounts of content,

@@ -119,6 +119,13 @@ btcniubi.com
 dashboard-portalcoin.com
 gomescontabilidade-ba.com.br
 nfe-visualizer.app.br
+
+! AI slop company (also included in anti-ai.txt) {{{
+mercor-dot-yamm-track.appspot.com
+mercorcontractors.com
+mercor.com
+suryamidha.com
+! }}}
 ! }}}
 ! Fluence {{{
 ! Some context: 
@@ -313,8 +320,8 @@ stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com
 ! link has made me accidentally open a help page instead of the video
 youtube.com##ytm-paid-content-overlay-renderer
 ! }}}
-! vim: set comments=:! commentstring=! %s
 ! Google shit {{{
 google.com##div[aria-label="Before you continue to Google Search"]
 google.com/search##body:remove-attr(class)
 ! }}}
+! vim: set comments=:! commentstring=! %s
