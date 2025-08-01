@@ -20,6 +20,13 @@
 mercor.com
 mercor-dot-yamm-track.appspot.com
 getnom.dev
+
+! AI slop recruiter + email spammer + github scraper - the trifecta of a scummy company
+mercorcontractors.com
+mercor.com
+! Slop cofounder
+suryamidha.com
+
 ! }}}
 ! Misinformation generators {{{
 ! Note that this section is mainly aimed at LLM implementations with the sole purpose of writing large amounts of content,
