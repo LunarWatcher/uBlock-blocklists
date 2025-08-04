@@ -59,6 +59,8 @@ nrk.no##aside:has(h3:has-text(Saka oppsummert))
 
 ! }}}
 ! Full genAI pages {{{
+! Detection strategy: Blatantly AI-generated images
+avonture.be
 
 ! Detection strategy: Random discovery
 scrapingant.com
