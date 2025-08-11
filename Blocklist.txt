@@ -215,6 +215,9 @@ twitteroauth.com
 twitterstat.us
 !! }}}
 ! SO shit {{{
+! More spyware {{{
+/stackheartbeat/*$domain=stackoverflow.com|stackexchange.com|superuser.com|askubuntu.com|mathoverflow.com|serverfault.com|stackapps.com
+! }}}
 ! SO doesn't understand when to use banners {{{
 
 stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com,serverfault.com,stackapps.com,stackoverflowteams.com##.js-announcement-banner
