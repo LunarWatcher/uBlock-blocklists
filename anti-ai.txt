@@ -352,6 +352,8 @@ github.com##.js-notice
 github.com##button:has(svg.octicon-copilot)
 ! Issue button
 github.com##div[class*="CopilotWorkspaceButton"]
+! Issue button v2?
+github.com##div[class*="CopilotAgentModeButton"]
 ! }}}
 ! You disappoint me, overleaf {{{
 overleaf.com###writefull-icon
