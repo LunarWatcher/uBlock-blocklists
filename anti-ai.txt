@@ -27,6 +27,11 @@ mercor.com
 ! (only one of the three appear to have a website. Couldn't find more slop products)
 suryamidha.com
 
+mercorpartner.com
+! One of mercor's contracted spammers (@soumizde on github - no real presence outside GH and the standard social media sites)
+soumizde.github.io
+soumizde.medium.com
+
 ! }}}
 ! General AI slop endorsers {{{
 todayin-ai.com
