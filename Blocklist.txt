@@ -120,6 +120,16 @@ dashboard-portalcoin.com
 gomescontabilidade-ba.com.br
 nfe-visualizer.app.br
 
+! Another crypto scam
+! Interestingly, the emails claim I get to be part of their blatant scam airdrop because I "contribute to open-source" and use an app on whatever the fuck a superchain is,
+! but they have no presence on GitHub themselves. Don't you just love hypocritical crypto shit companies?
+! (the non-.com domains appear to be unofficial and a separately operated scam, so it's a double scam. Fun!)
+pudgypenguins.nl
+pudgypenguins.com
+! Used by several crypto scammers, appears to be popular as a throwaway email service?
+tiscali.it
+op-ecosystem.digital
+
 ! AI slop company (also included in anti-ai.txt) {{{
 mercor-dot-yamm-track.appspot.com
 mercorcontractors.com
