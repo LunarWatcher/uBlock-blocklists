@@ -356,6 +356,8 @@ github.com###blob-view-header-copilot-icon
 github.com##.js-notice
 ! Action fail button
 github.com##button:has(svg.octicon-copilot)
+! Action fail button v2 (fuck you github)
+github.com##div[data-test-id*="copilot-actions-chat-button"]
 ! Issue button
 github.com##div[class*="CopilotWorkspaceButton"]
 ! Issue button v2?
