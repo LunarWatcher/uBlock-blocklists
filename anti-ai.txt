@@ -43,6 +43,7 @@ todayin-ai.com
 ! which already covers those.
 ! This section is the most likely to overlap with that list, and I'd like to keep overlap to a minimum.
 
+paper-checker.com
 sapling.ai
 byword.ai
 simplified.com
