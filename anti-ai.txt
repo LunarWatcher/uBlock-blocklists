@@ -19,6 +19,9 @@
 ! Really hitting all the absolute bottomfeeder indicators here
 getnom.dev
 
+! AI misinformation generator + email spammer
+coderabbit.ai
+
 ! AI slop recruiter + email spammer + github scraper - the trifecta of a scummy company
 mercor-dot-yamm-track.appspot.com
 mercorcontractors.com
