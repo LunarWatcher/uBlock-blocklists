@@ -73,6 +73,9 @@ nrk.no##aside:has(h3:has-text(Saka oppsummert))
 avonture.be
 
 ! Detection strategy: Random discovery
+legalbriefai.com
+surge.law
+
 scrapingant.com
 cheatsheet.fyi
 artificialintelligence-news.com
