@@ -1,4 +1,7 @@
 ! Unbreaking {{{
+! Cookie filters breaks webtoons by hiding the feed buttons. This forcibly restores them, though at the cost of including social sharing buttons
+webtoons.com###content > .cont_box > .detail_header > .spi_wrap > .spi_area > li:style(display: list-item !important;)
+
 ! Breaks some sites
 #@#.gdpr:not(body):not(html)
 #@#.gdpr-footer
