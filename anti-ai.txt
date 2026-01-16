@@ -15,6 +15,21 @@
 !! This list will grow as I find bad sites.
 !! Also note that this list is written with vim fold marks, to make it slightly more readable in at least the editor I use
 
+! The root of all evil {{{
+copilot.microsoft.com
+chatgpt.com
+chat.openai.com
+openai.com
+gemini.google.com
+
+claude.ai
+anthropic.com
+claude.com
+
+grok.com
+x.ai
+! }}}
+
 ! Email spammer slop companies {{{
 ! Really hitting all the absolute bottomfeeder indicators here
 getnom.dev
