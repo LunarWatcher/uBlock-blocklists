@@ -77,7 +77,9 @@ gemini-cli.xyz
 perplexity.ai
 
 ! }}}
-
+! In the dynamic world of AI slop, these websites can also go fuck themselves. With a cactus. {{{
+itsfoss.gitlab.io
+! }}}
 ! AI-generated features on otherwise acceptable sites {{{
 ! AI-generated summaries
 nrk.no##aside:has(h3:has-text(Saken oppsummert))
