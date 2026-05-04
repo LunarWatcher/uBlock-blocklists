@@ -394,3 +394,7 @@ github.com##div[class*="CopilotAgentModeButton"]
 overleaf.com###writefull-icon
 overleaf.com##.ai-error-assistant
 ! }}}
+! Atlassian {{{
+atlassian.net##[data-spotlight-target="rovo-ai-button"]
+atlassian.net##[data-testid="atlassian-navigation.ui.conversation-assistant.app-navigation-ai-mate"]
+! }}}
