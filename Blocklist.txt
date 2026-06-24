@@ -102,6 +102,8 @@ agribiomercadante.com
 rtve.es
 triconpolyfabs.com
 
+||attentionlabs.ai
+||sorcero.com
 ! Not technically spam (the spammers used ipfs in the spam), but really questionable site overall
 ipfs.io
 
