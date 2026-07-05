@@ -275,6 +275,9 @@ superuser.com###divQuestionFollowFeaturePopover
 stackoverflow.com##.s-badge__new
 stackoverflow.com###nav-labs-jobs
 
+! Slop machine "Q&A" ad (fuck AI slop)
+/^(?:\w+\.)?(?:askubuntu|mathoverflow|stackexchange|stackoverflow|serverfault|stackapps|superuser)\.(?:com|net)$/##aside.js-sofa-sidebar-promo:remove()
+
 ! Axe one-tap login (https://meta.stackoverflow.com/questions/429959/why-did-stack-overflow-sign-ups-spike-in-the-past-two-weeks#comment994498_429959)
 ! Note that this is partly blocked already, as Some Other Blocklist:tm: blocks the google client script, which prevents one-tap login from working
 ! This block is for good measure 
