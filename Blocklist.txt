@@ -64,7 +64,7 @@ forum.kvinneguiden.no##.ehm-widgetboard
 ! }}}
 ! Annoyance elements {{{
 ! Block that thingy
-##iframe[src^="//static.fsf.org/nosvn/banners/"]
+gnu.org##iframe[src^="//static.fsf.org/nosvn/banners/"]
 gnu.org###fundraiser
 
 ! This is a generic block for visitor badge sites.
@@ -347,9 +347,5 @@ stackoverflow.com,stackexchange.com,superuser.com,askubuntu.com,mathoverflow.com
 ! Block the "includes paid content" overlay - while useful, the fact it's a
 ! link has made me accidentally open a help page instead of the video
 youtube.com##ytm-paid-content-overlay-renderer
-! }}}
-! Google shit {{{
-google.com##div[aria-label="Before you continue to Google Search"]
-google.com/search##body:remove-attr(class)
 ! }}}
 ! vim: set comments=:! commentstring=! %s
